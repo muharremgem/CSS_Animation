@@ -45,7 +45,7 @@ body {
 
 
 /*** Animation */
-/*
+
 @keyframes right {
   100% {
     transform: translate(-2000px);
@@ -71,4 +71,3 @@ body {
 .pop-up {
   animation: pop-up 0.8s linear infinite;
 }
-*/
