@@ -23,7 +23,7 @@ body {
   position: relative;
   overflow-x: hidden;
 }
-/*
+/
 .ground {
   height: 150px;
   width: 5000%;
@@ -34,7 +34,7 @@ body {
   background-repeat: repeat-x;
   /* animation: right 5s linear infinite; */
 }
-*/
+
 /*
 .car {
   position: absolute;
